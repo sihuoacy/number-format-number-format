@@ -15,11 +15,11 @@
             "numberFormat\\": "src/"
         }
     },
-    "authors": [   // 作者联系地址
+    "authors": [
         {
             "name": "name",
             "email": "name@163.com"
          }       
     ],
-    "license": "MIT"// 主要解决在上传到Packagist后网站出现There is no license information available for the latest version (dev-master)警告
+    "license": "MIT"
 }
